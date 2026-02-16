@@ -18,6 +18,26 @@ In addition to predictive modeling, Explainable Artificial Intelligence (XAI) te
 
 * Integrate Explainable AI methods for model transparency
 
+ # Implemented Models
+
+The following architectures were implemented and evaluated:
+
+* VGG16
+
+* VGG19
+
+* Desnet201
+
+* InceptionV3
+
+* ResNet50
+
+* ResNet101V2
+
+* MobileNet
+
+* Custom CNN Model
+
 # Methodology
 1. Data Preprocessing
 
