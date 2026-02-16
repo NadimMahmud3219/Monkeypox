@@ -8,58 +8,58 @@ In addition to predictive modeling, Explainable Artificial Intelligence (XAI) te
 
 # Objectives
 
-Develop deep learning models for Monkeypox image classification
+* Develop deep learning models for Monkeypox image classification
 
-Apply transfer learning using state-of-the-art CNN architectures
+* Apply transfer learning using state-of-the-art CNN architectures
 
-Compare model performance across multiple architectures
+* Compare model performance across multiple architectures
 
-Improve classification accuracy through model tuning
+* Improve classification accuracy through model tuning
 
-Integrate Explainable AI methods for model transparency
+* Integrate Explainable AI methods for model transparency
 
 # Methodology
 1. Data Preprocessing
 
-Image resizing and normalization
+* Image resizing and normalization
 
-Data augmentation
+* Data augmentation
 
-Train-validation-test split
+* Train-validation-test split
 
 2. Model Development
 
-Loading pre-trained architectures
+* Loading pre-trained architectures
 
-Freezing and fine-tuning layers
+* Freezing and fine-tuning layers
 
-Adding custom classification heads
+* Adding custom classification heads
 
-Training with optimized hyperparameters
+* Training with optimized hyperparameters
 
 3. Model Evaluation
 
 Models were evaluated using:
 
-Accuracy
+* Accuracy
 
-Precision
+* Precision
 
-Recall
+* Recall
 
-F1-Score
+* F1-Score
 
-Confusion Matrix
+* Confusion Matrix
 
-ROC-AUC Score
+* ROC-AUC Score
 
 4. Explainability Analysis
 
-Visualization of activation maps
+* Visualization of activation maps
 
-Interpretation of model attention regions
+* Interpretation of model attention regions
 
-Comparative analysis of explainability results
+* Comparative analysis of explainability results
 
 # Author
 
