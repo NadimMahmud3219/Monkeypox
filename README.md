@@ -1,5 +1,5 @@
 # Monkeypox
-# Monkeypox Detection Using Deep Learning and Explainable AI
+#A Vision Transformer-Based Multi-Backbone Feature Fusion Framework with Explainable AI for Monkeypox Detection and Mobile Development
 # Project Overview
 
 This project focuses on automated Monkeypox detection from medical skin lesion images using deep learning and transfer learning techniques. Multiple pre-trained convolutional neural network (CNN) architectures were implemented and compared to evaluate classification performance.
