@@ -38,6 +38,16 @@ The following architectures were implemented and evaluated:
 
 * Custom CNN Model
 
+# Explainable AI (XAI)
+
+Explainable AI techniques were applied to:
+
+* Visualize activation maps
+
+* Highlight image regions influencing predictions
+
+* Improve transparency in automated medical diagnosis
+
 # Methodology
 1. Data Preprocessing
 
