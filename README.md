@@ -1,5 +1,7 @@
 # A Vision Transformer-Based Multi-Backbone Feature Fusion Framework with Explainable AI for Monkeypox Detection
 
+# Project Overview 
+
 This project focuses on automated Monkeypox detection from medical skin lesion images using deep learning and transfer learning techniques. Multiple pre-trained convolutional neural network (CNN) architectures were implemented and compared to evaluate classification performance.
 
 In addition to predictive modeling, Explainable Artificial Intelligence (XAI) techniques were applied to improve model interpretability and support medical decision-making.
